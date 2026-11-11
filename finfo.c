@@ -1,7 +1,7 @@
 /*
  * Name:       Dylan McKinney
  * Assignment: CPE-2600 Lab 9 - System Calls
- * Section:    111
+ * Section:    111 
  *
  * finfo.c
  *
